@@ -10,7 +10,7 @@ class MedicalChatScreen extends StatefulWidget {
 }
 
 class _MedicalChatScreenState extends State<MedicalChatScreen> {
-  String apiKey = "AIzaSyDx_T7hirM57xFeIXK66YEAHRJHNLvP9D8";
+  String apiKey = "";
 
   @override
   Widget build(BuildContext context) {
